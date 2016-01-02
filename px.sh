@@ -115,7 +115,7 @@ case $1 in
 	;;
 
 	*)
-		echo "\nUsage :\n---------------\npx 1\t:: Setting System proxy\npx 0\t:: Unsetting System proxy\n\npx 1g\t:: Setting Git proxy\npx 0g\t:: Unsetting Git proxy\n"
+		echo "\nUsage :\n---------------\npx 1\t:: Setting System proxy\npx 0\t:: Unsetting System proxy\n\npx 1g\t:: Setting Git proxy\npx 0g\t:: Unsetting Git proxy\n\npx stat\t:: Checking proxy status\n"
  		exit 1
 	;;
 esac
