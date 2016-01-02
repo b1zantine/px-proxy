@@ -9,7 +9,7 @@ curl -o px https://raw.githubusercontent.com/SudarAbisheck/px-proxy/master/px.sh
 ```
 or using `wget`
 ```sh
-wget -o px https://raw.githubusercontent.com/SudarAbisheck/px-proxy/master/px.sh\
+wget -O px https://raw.githubusercontent.com/SudarAbisheck/px-proxy/master/px.sh\
 && chmod +x px && sudo mv px /usr/bin
 ```
 
